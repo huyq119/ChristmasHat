@@ -9,5 +9,6 @@
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "我要圣诞帽",
     "navigationBarTextStyle": "black"
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }
