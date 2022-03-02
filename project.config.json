@@ -1,5 +1,5 @@
 {
-  "description": "\u9879\u76ee\u914d\u7f6e\u6587\u4ef6\u3002",
+  "description": "项目配置文件。",
   "setting": {
     "urlCheck": true,
     "es6": true,
@@ -28,15 +28,15 @@
       "outputPath": ""
     },
     "enableEngineNative": false,
-    "useIsolateContext": true,
+    "useIsolateContext": false,
     "userConfirmedBundleSwitch": false,
     "packNpmManually": false,
     "packNpmRelationList": [],
     "minifyWXSS": true,
     "disableUseStrict": false,
+    "minifyWXML": true,
     "showES6CompileOption": false,
-    "useCompilerPlugins": false,
-    "minifyWXML": true
+    "useCompilerPlugins": false
   },
   "compileType": "miniprogram",
   "libVersion": "latest",
